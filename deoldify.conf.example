@@ -3,7 +3,7 @@ command=/home/alireza/DeOldify/service.sh
 directory=/home/alireza/DeOldify
 autostart=true
 autorestart=true
-environment=PATH=/home/alireza/miniconda3/envs/old/bin:/usr/bin
+environment=PATH=/home/alireza/miniconda3/envs/py312/bin:/usr/bin
 redirect_stderr=true
 stdout_logfile=/home/alireza/DeOldify/server.log
 user=alireza
